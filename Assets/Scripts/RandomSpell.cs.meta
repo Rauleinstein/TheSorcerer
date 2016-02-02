@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 664cd3d98f75b2545a0b93624c9145cc
+timeCreated: 1454120435
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spellUI: {instanceID: 0}
+  - spellScroll: {fileID: 100000, guid: bf495eacf58e31146ab012aa89ac68da, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
